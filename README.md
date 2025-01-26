@@ -1,3 +1,3 @@
 # Flight-Reservation-System
 <br>
-Author: Kashish Rastogi
+Author: Kashish
